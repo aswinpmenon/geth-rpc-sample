@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-	"github.com/ethererum/go-ethereum/rpcclient"
+	"github.com/ethererum/go-ethereum/ethclient"
 )
 
 const ACC_NUM = 4  //the number of accounts
